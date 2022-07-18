@@ -1,0 +1,6 @@
+com\mycompany\calculadorastrategy\Divisao.class
+com\mycompany\calculadorastrategy\InterfaceCalculadora.class
+com\mycompany\calculadorastrategy\Multiplicacao.class
+com\mycompany\calculadorastrategy\Soma.class
+com\mycompany\calculadorastrategy\Subtracao.class
+com\mycompany\calculadorastrategy\Principal.class
